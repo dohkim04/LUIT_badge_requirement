@@ -1,0 +1,69 @@
+LUIT Badge requirements 
+
+==========
+[Linux Badge requirements]
+Do Hyung Kim
+E-mail: doh.kim04@gmail.com
+
+Week 2 project: https://medium.com/@doh.kim04/preparing-the-first-apache-http-webserver-running-on-your-own-centos-8-server-271632170a14
+
+Week 4 project: https://medium.com/@doh.kim04/version-control-using-git-and-github-298134c0583f
+
+==========
+[Cloud Associate Badge requirements] 
+Do Hyung Kim
+E-mail: doh.kim04@gmail.com	
+
+Week 5: https://medium.com/@doh.kim04/utilizing-aws-ec2-instance-tasks-1-112b3ce79e2	
+-	Complex level
+
+Week 6: https://medium.com/@doh.kim04/project-4-creating-aws-ec2-instance-5dae93a226c8	
+        -	Complex level
+Week 7: https://medium.com/@doh.kim04/duet-of-auto-scaling-group-and-load-balancer-on-ec2-instances-9db31c43c047	
+        - Foundational level
+Week 8: https://medium.com/@doh.kim04/a-list-of-my-favorite-old-american-movies-in-an-aws-dynamodb-table-5bd03bb44f85	
+        -	Foundational level
+Week 9: https://medium.com/@doh.kim04/part-1-3-3-tier-architecture-in-aws-service-f39a85cad90a   
+             and    
+        https://medium.com/@doh.kim04/project-7-part-2-3-3-tier-architecture-in-aws-service-203a4f6cfb6f	
+        -	Advanced level
+
+AWS CDA certification: https://www.credly.com/badges/3abaaf49-bf41-4867-aa47-61e17f2458b5/linked_in_profile
+
+==========
+[Python Badge requirements]
+Do Hyung Kim	
+doh.kim04@gmail.com	
+
+Week 12: https://www.linkedin.com/feed/update/urn:li:activity:7048433853492817920/	
+
+Week 13: https://medium.com/@doh.kim04/project-8-reporting-all-files-and-all-sub-directories-using-list-and-dictionary-data-structures-1e6b0dc25381	
+
+Week 14: https://medium.com/@doh.kim04/project-9-my-favorite-old-american-movie-in-dynamodb-table-came-back-aws-sdk-boto3-version-e6a48e01fd35	
+
+Week 15: https://medium.com/@doh.kim04/project-10-designing-a-tracking-system-for-customer-orders-series-1-dbf2c88cf7d8
+
+==========
+[Container Badge requirements]
+Do Hyung Kim
+Email: doh.kim04@gmail.com
+
+Week 16 project: https://medium.com/@doh.kim04/project-11-building-your-own-docker-container-using-official-python-image-and-boto3-library-fc120854074a
+
+Week 17 project: https://medium.com/@doh.kim04/project-12-docker-swarm-is-like-conducting-an-orchestra-c7ac7170ff65
+
+Week 18 ## Currently working in progress (this has not been completed yet)
+
+==========
+[Terraform Badge requirements]
+Do Hyung Kim
+Email: doh.kim04@gmail.com
+
+Week 20: https://medium.com/@doh.kim04/project-14-learning-terraform-creating-my-first-infrastructure-as-a-code-iac-45d2ab1e057a
+
+Week 21: https://medium.com/@doh.kim04/project-15-terraform-project-ii-aws-auto-scaling-group-and-s3-bucket-as-terraform-remote-af52ba3eee5f
+
+Week 22: https://medium.com/aws-tip/project-16-terraform-project-iii-creating-2-tier-architecture-32597ea4359b
+
+HashiCorp Certified: Terraform Associate (003): https://www.credly.com/badges/e2240daf-416a-473e-bab5-8d3e326b01e3/linked_in_profile
+
